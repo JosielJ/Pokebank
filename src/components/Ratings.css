@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.container-rating {
+width: 100%;
+height: 600px;
+}
+
+.container-rating-cards {
+display: flex;
+justify-content: center;
+background-color: blue;
+width: 100%;
+height: 400;
+}
+
+.container-rating-cards-card-user {
+width: 65px;
+border-radius: 50%;
+}
+
+.container-rating-cards-l {
+margin-bottom: 10px;
+padding: 10px 20px 10px 20px;
+margin-left: -10px;
+width: 80%;
+background-color: #fff;
+border-radius: 25px 25px 3px 25px;
+}
+
+.container-rating-cards-l svg, .container-rating-cards-l h3, .container-rating-cards-l p{
+fill: #ffe817;
+color: #000;
+}
+
+.container-rating-cards-r {
+margin-bottom: 10px;
+padding: 10px 20px 10px 20px;
+margin-left: 50px;
+width: 80%;
+background-color: #fff;
+border-radius: 25px 25px 25px 3px;
+}
+
+.container-rating-cards-r svg, .container-rating-cards-r h3, .container-rating-cards-r p{
+fill: #ffe817;
+color: #000;
+}

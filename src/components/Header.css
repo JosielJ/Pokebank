@@ -1,0 +1,21 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.head {
+width: 100%;
+/*background-color: #fff;
+
+-webkit-box-shadow: 0px 10px 11px -10px rgba(0,0,0,0.7); 
+box-shadow: 0px 10px 11px -10px rgba(0,0,0,0.7);*/
+}
+
+.head img {
+/*position: fixed;
+z-index: 1000;*/
+position: absolute;
+width: 60px;
+padding-left: 100px;
+top: 30px;
+}

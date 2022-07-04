@@ -1,0 +1,73 @@
+* {
+margin: 0;
+padding: 0;
+color: #ffff;
+}
+
+.container {
+height: 100vh;
+width: 100%;
+background-image: url("../../public/wallpaper.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.content {
+height: 100vh;
+width: 100%;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+}
+
+.content-card {
+height: 100vh;
+width: 55%;
+}
+
+.content-text{
+height: 100vh;
+width: 45%;
+position: relative;
+justify-content: center;
+}
+
+.content-text h1 {
+padding: 220px 100px 0px;
+max-width: 450px;
+font-weight: bold;
+}
+
+.content-text-knowmore{
+position: absolute;
+margin: 20px 100px 0px;
+padding-top: 13px;
+padding-bottom: 15px;
+width: 60%;
+/*height: 60px;*/
+border-radius: 6px;
+border: none;
+outline: none;
+font-weight: bold;
+font-size: 20px;
+text-align: center;
+background: rgba(255, 255, 255, 0.15);
+backdrop-filter: blur(10px);
+color: #ffff;
+}
+
+.content-text-knowmore:hover {
+position: absolute;
+background-color: rgba(255, 255, 255, 0.30);
+cursor: pointer;
+}
+
+.content-text-knowmore:active {
+position: absolute;
+left: 2.92px;
+width: 59%;
+background-color: rgba(255, 255, 255, 0.45);
+cursor: pointer;
+}
