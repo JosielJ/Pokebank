@@ -1,1 +1,3 @@
-Projeto pessoal
+Projeto pessoal PokéBank
+
+https://pokebanktreino.netlify.app/
