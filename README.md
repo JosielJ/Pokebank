@@ -1,4 +1,4 @@
-![logo__PokéBank](https://media.discordapp.net/attachments/844323169900167218/997599694173765812/PBv3.png?width=670&height=670)
+![logo__PokéBank](https://media.discordapp.net/attachments/844323169900167218/997599694173765812/PBv3.png?width=250&height=250)
 
 <hr>
 
