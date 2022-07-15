@@ -56,4 +56,4 @@ Você pode [ver o código-fonte do projeto](https://github.com/JosielJ/Pokebank)
 
 ## Como foi trabalhar nesse projeto
 
-Usei [Framer Motion](https://www.framer.com/motion/) para fazer animações e efeitos visuais e [React Icons](https://react-icons.github.io/react-icons/) para os ícones. O projeto ainda está sendo desenvolvido, a responsividade esta sendo finalizada e alguns bugs estão sendo corrigidos.
+Usei [Framer Motion](https://www.framer.com/motion/) para fazer animações e efeitos visuais e [React Icons](https://react-icons.github.io/react-icons/) para os ícones, usei o [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) para renderizar o 3D. O projeto ainda está sendo desenvolvido, a responsividade esta sendo finalizada e alguns bugs estão sendo corrigidos.
